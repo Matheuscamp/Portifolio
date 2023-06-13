@@ -5,7 +5,7 @@ The main goal is create a website with my main professional information.
 
 # Preview
 
-<img src="https://github.com/Matheuscamp/Portifolio/blob/main/preview.png" height="500"/>
+<img src="./imgs/preview-portfolio.png" height="500"/>
 
 ## Live link:
 
